@@ -28,12 +28,6 @@
       "title": "newblog",
       "body": "explaining react",
       "author": "yoshi",
-      "id": 6
-    },
-    {
-      "title": "newblog",
-      "body": "explaining react",
-      "author": "yoshi",
       "id": 7
     },
     {
@@ -47,18 +41,6 @@
       "body": "netninja\n",
       "author": "mario",
       "id": 9
-    },
-    {
-      "title": "react",
-      "body": "netninja\n",
-      "author": "mario",
-      "id": 10
-    },
-    {
-      "title": "react",
-      "body": "netninja\n",
-      "author": "mario",
-      "id": 12
     },
     {
       "title": "Ninja World",
@@ -77,6 +59,12 @@
       "body": "srdfdfg kjlhhjk k;lkkjkl liij;ojh h;k;lj glohydyu ",
       "author": "yoshi",
       "id": 15
+    },
+    {
+      "title": "Weekend Vibes",
+      "body": "Its good to have some recreation during thre weekend",
+      "author": "peter",
+      "id": 16
     }
   ]
 }
