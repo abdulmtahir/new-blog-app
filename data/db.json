@@ -28,12 +28,6 @@
       "title": "newblog",
       "body": "explaining react",
       "author": "yoshi",
-      "id": 5
-    },
-    {
-      "title": "newblog",
-      "body": "explaining react",
-      "author": "yoshi",
       "id": 6
     },
     {
@@ -59,12 +53,6 @@
       "body": "netninja\n",
       "author": "mario",
       "id": 10
-    },
-    {
-      "title": "react",
-      "body": "netninja\n",
-      "author": "mario",
-      "id": 11
     },
     {
       "title": "react",
